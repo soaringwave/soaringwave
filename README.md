@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 
 [![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=soaringwave)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=soaringwave)](https://solved.ac/himhim51)
+[![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=himhim51)](https://solved.ac/himhim51)
