@@ -18,3 +18,5 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soaringwave&layout=compact)](https://github.com/깃허브아이디/github-readme-stats)
 
 [![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=soaringwave)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=soaringwave)](https://solved.ac/soaringwave)
