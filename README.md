@@ -2,7 +2,7 @@
 '40년 안에 재생에너지와 IoT를 이용한 주거 단지를 설립하고 운영하기'라는 목표를 가지고 개발 공부를 하고 있습니다!  
 발전한 기술을 이롭게 이용하여 더 나은 삶을 만드는 것에 관심이 많습니다.  
 <br>
-현재는 웹 개발과 앱 개발을 위주로 공부하고 있으며, 주로 활용하는 언어는 Flutter, Python, HTML, CSS, JavaScript, Node.js입니다. 
+현재는 앱 개발과 웹 개발을 위주로 공부하고 있으며, 주로 활용하는 언어는 Flutter, Python, HTML, CSS, JavaScript, Node.js입니다. 
 <br>  
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
